@@ -43,9 +43,18 @@ To build the Podman image and run the container, execute:
 ```bash
 make all
 ```
+![Screenshot 2024-10-19 234014](https://github.com/user-attachments/assets/8f22ec33-610a-4367-b9a2-9cb8d6c4abda)
 
 To view the logs and monitor the application
 
 ```bash
 make logs
+```
+```bash
+INFO:     Started server process [1]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     10.88.0.1:36886 - "POST /predict HTTP/1.1" 200 OK
+
 ```
