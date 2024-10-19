@@ -36,6 +36,13 @@ mlops-podman-project/
 
 ## Usage
 
+### Git Clone
+
+```bash
+git clone https://github.com/kingabzpro/mlops-with-podman
+cd mlops-with-podman
+```
+
 ### Build and Run the Application
 
 To build the Podman image and run the container, execute:
