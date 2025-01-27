@@ -2,6 +2,8 @@
 
 This project demonstrates a simplified MLOps pipeline using Podman. It uses the [Credit Score Classifier](https://www.kaggle.com/datasets/parisrohan/credit-score-classification?select=test.csv) dataset to train and serve a machine learning model.
 
+Follow the tutorial: https://www.datacamp.com/tutorial/introduction-to-podman-for-machine-learning-streamlining-ml-ops-workflows
+
 ## Prerequisites
 
 - **Podman** installed on your system.
